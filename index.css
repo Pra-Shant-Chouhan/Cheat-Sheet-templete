@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding:0;
+
+}
+.logo{
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: azure;
+}
+
+.logo img{
+    width: 28%;
+    opacity: 0.7;
+
+}
+.Content{
+    font-family: 'Potta One', cursive;
+}
+
+.containar{
+    width: 50vh;
+    padding: 32px 0;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
